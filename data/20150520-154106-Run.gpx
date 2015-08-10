@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2015-05-20T15:41:06Z</time>
+ </metadata>
+ <trk>
+  <name>05/20/2015 Stokenchurch, Buckinghamshire, United Kingdom</name>
+  <trkseg>
+   <trkpt lat="51.6555440" lon="-0.8926740">
+    <ele>222.5</ele>
+    <time>2015-05-20T15:41:06Z</time>
+   </trkpt>
+   <trkpt lat="51.6554730" lon="-0.8926690">
+    <ele>222.8</ele>
+    <time>2015-05-20T15:41:09Z</time>
+   </trkpt>
+   <trkpt lat="51.6553980" lon="-0.8928100">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:12Z</time>
+   </trkpt>
+   <trkpt lat="51.6553770" lon="-0.8929220">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:14Z</time>
+   </trkpt>
+   <trkpt lat="51.6553130" lon="-0.8931280">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:18Z</time>
+   </trkpt>
+   <trkpt lat="51.6552290" lon="-0.8934030">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:24Z</time>
+   </trkpt>
+   <trkpt lat="51.6552090" lon="-0.8934350">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:26Z</time>
+   </trkpt>
+   <trkpt lat="51.6552130" lon="-0.8934070">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:27Z</time>
+   </trkpt>
+   <trkpt lat="51.6552720" lon="-0.8932620">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:30Z</time>
+   </trkpt>
+   <trkpt lat="51.6553320" lon="-0.8931150">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:33Z</time>
+   </trkpt>
+   <trkpt lat="51.6553920" lon="-0.8929540">
+    <ele>223.0</ele>
+    <time>2015-05-20T15:41:36Z</time>
+   </trkpt>
+   <trkpt lat="51.6554830" lon="-0.8927110">
+    <ele>222.8</ele>
+    <time>2015-05-20T15:41:41Z</time>
+   </trkpt>
+   <trkpt lat="51.6555940" lon="-0.8926510">
+    <ele>222.4</ele>
+    <time>2015-05-20T15:41:45Z</time>
+   </trkpt>
+   <trkpt lat="51.6556180" lon="-0.8926720">
+    <ele>222.3</ele>
+    <time>2015-05-20T15:41:46Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
